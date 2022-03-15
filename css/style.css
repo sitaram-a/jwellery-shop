@@ -1257,11 +1257,12 @@ h1 {
 
 #footer {
     clear: both;
-    background: #222224 url(../images/footer-bg1.jpg);
+    /*background: #222224 url(../images/footer-bg1.jpg);*/
     padding: 27px 0 0;
     color: #a5a5aa;
     font-size: 14px;
     line-height: 30px;
+    background: bisque;
 }
 
 #footer h3 {
