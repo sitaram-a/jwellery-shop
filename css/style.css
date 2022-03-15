@@ -1481,7 +1481,7 @@ h1 {
         background-size: 16px 16px;
     }
     #footer {
-        background-image: url(../images/footer-bg1.jpg);
+        /*background-image: url(../images/footer-bg1.jpg);*/
         background-size: 30px 30px;
     }
     .pagination span {
